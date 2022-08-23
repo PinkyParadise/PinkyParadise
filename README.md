@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PinkyParadise
+- 👀 I’m interested in ARM
+- 🌱 I’m currently learning C
+- 💞️ 
